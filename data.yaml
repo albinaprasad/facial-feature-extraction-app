@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 5
+names: ['eye', 'eyebrow', 'lip', 'mustache-beard', 'nose']
+
+roboflow:
+  workspace: kagna-technologies-ddmoj
+  project: extracting-facial-features
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/kagna-technologies-ddmoj/extracting-facial-features/dataset/1
