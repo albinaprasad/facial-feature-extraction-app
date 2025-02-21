@@ -1,0 +1,1 @@
+ E:\\projects\\facial\ feature\ extraction\\flutter_app\\.dart_tool\\flutter_build\\38895e2cd1fb1d1f9d74afeabda365ae\\native_assets.yaml: 
